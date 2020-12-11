@@ -1,6 +1,8 @@
 # BJUT-AutoReport  
 A simple script for automaticly reporting your health data to BJUT server everyday.  
   
+# 本项目仅作为学习和交流使用，禁止用于其他用途
+  
 ## 使用说明  
 本脚本适用于BJUT每日汇报身体状况表单  
 1. 安装`requests`模块 `pip install requests`  
